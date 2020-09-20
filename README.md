@@ -1,5 +1,7 @@
 # My dmenu (dynamic menu) build
 
+
+![Screenshot of my desktop](https://github.com/lmachegger/dwm/blob/master/screenshot.png) 
 Dmenu is an efficient dynamic menu for X. This is my personal build of dwm. I used the following patches in this build:
 + lineheight (adds additional parameter -h for setting the height of dmenu)
 
